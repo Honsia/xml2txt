@@ -1,0 +1,13 @@
+body_play_phone
+phone
+body_sleep
+body_suspected_play_phone
+face_no_mask
+body_gathering
+body_eating
+food
+body_wear_staff_card
+card
+body_camera
+body_others
+face_sleep

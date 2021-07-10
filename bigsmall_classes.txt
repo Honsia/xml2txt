@@ -1,0 +1,8 @@
+Mask_head
+Clear_head
+Unclear_head
+Help
+Hand_on_ring
+Officer
+Fall
+Fight

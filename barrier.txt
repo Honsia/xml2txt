@@ -1,0 +1,4 @@
+Barrier
+Person
+Train
+Switch_center
